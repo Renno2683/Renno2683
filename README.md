@@ -90,4 +90,4 @@ Before pivoting into tech, I spent years in **finance and administration** — m
 
 ---
 
-*Open to remote Data Analyst roles — Sydney, Australia 🇦🇺*
+*Open to remote Data Analyst roles in Australia or Overseas — Sydney, Australia 🇦🇺*

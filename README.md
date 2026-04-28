@@ -1,13 +1,13 @@
 # Hi, I'm Ranim Chaar 👋
 
 ### Aspiring Data Analyst | Sydney, Australia 🇦🇺
-#### Transitioning from Finance & Administration into Data Analytics
+#### Transitioning from Management & Administration into Data Analytics
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a finance and administration professional making a deliberate pivot into data analytics. With a strong foundation in numbers, reporting, and business operations, I'm now building the technical skills to turn raw data into decisions.
+I'm a Management and administration professional making a deliberate pivot into data analytics. With a strong foundation in numbers, reporting, and business operations, I'm now building the technical skills to turn raw data into decisions.
 
 I'm currently focused on mastering the full data analyst toolkit — SQL, Python, Power BI, and Tableau — through hands-on portfolio projects that solve real business problems.
 
